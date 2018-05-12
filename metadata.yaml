@@ -1,0 +1,43 @@
+_repo: Kittyn-p-iv-kirjavuosisadan-keski-ajoilla_24209
+_version: 0.1.0
+alternative_title: Diary of Mrs. Kitty Trevylyan. Finnish
+contributor:
+  translator:
+    agent_name: Avellan, Edvin
+    alias: Tarkki, Edv.
+    birthdate: 1830
+    deathdate: 1912
+    gutenberg_agent_id: '26317'
+    url: http://www.gutenberg.org/2009/agents/26317
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Charles, Elizabeth Rundle
+    alias: Charles, Elisabeth Rundle
+    birthdate: 1828
+    deathdate: 1896
+    gutenberg_agent_id: '25999'
+    url: http://www.gutenberg.org/2009/agents/25999
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Charles
+description: ''
+gutenberg_issued: '2008-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24209'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Wesley, John, 1703-1791 -- Fiction'
+- !lcsh 'Whitefield, George, 1714-1770 -- Fiction'
+- !lcsh 'Wesley, Charles, 1707-1788 -- Fiction'
+title: 'Kittyn päiväkirja
+
+  Kuvauksia hengellisistä liikkeistä Englannissa viime
+
+  vuosisadan keski-ajoilla'
+url: http://www.gutenberg.org/ebooks/24209
